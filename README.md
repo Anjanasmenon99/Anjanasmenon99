@@ -5,7 +5,7 @@
 - 👀 I’m interested in automating tasks, making work more efficient, and exploring new technologies.
 - 🌱 I’m currently learning advanced Selenium techniques and improving my skills in Postman for API testing.
 - 💞️ I’m looking to collaborate on projects related to test automation, especially those utilizing Selenium and Postman.
-- 📫 You can reach me through maid-anjanasmenon.mec@gmail.com.
+- 📫 You can reach me through mail-anjanasmenon.mec@gmail.com.
 
 ## About Me
 I'm a passionate QA Engineer interested in automating workflows and simplifying tasks. I specialize in Selenium for web automation and Postman for API testing. I'm always open to learning and exploring new ways to optimize processes.
